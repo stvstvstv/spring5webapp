@@ -10,7 +10,8 @@ public class Spring5webappApplication {
 		SpringApplication.run(Spring5webappApplication.class, args);
 	}
 	
-	public void getCacat() {
+	public void getTest() {
 		System.out.println("test");
+		System.out.println("alt test");
 	}
 }
